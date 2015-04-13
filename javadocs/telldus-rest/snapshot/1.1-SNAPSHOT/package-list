@@ -1,0 +1,6 @@
+org.ezand.telldus.rest
+org.ezand.telldus.rest.config
+org.ezand.telldus.rest.controller
+org.ezand.telldus.rest.dto
+org.ezand.telldus.rest.exception
+org.ezand.telldus.rest.settings
