@@ -1,0 +1,8 @@
+org.ezand.telldus.rest
+org.ezand.telldus.rest.config
+org.ezand.telldus.rest.dto
+org.ezand.telldus.rest.exception
+org.ezand.telldus.rest.providers
+org.ezand.telldus.rest.resources
+org.ezand.telldus.rest.serializers
+org.ezand.telldus.rest.settings
